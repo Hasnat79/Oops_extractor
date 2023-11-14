@@ -19,7 +19,7 @@ The project code is organized into a Python script named extract_failed_videos.p
 
    - tt_path: Path to the transition time file (./oops_dataset/annotations/transition_times_fixed.json).
    - val_dir_path: Path to the directory containing validation set videos (./oops_dataset/oops_video/val/).
-  -  oops_all_failed_videos_val_dir_new: Path to the directory where failed videos will be extracted (./oops_all_failed_videos_val_dir_new/).
+    - oops_all_failed_videos_val_dir_new: Path to the directory where failed videos will be extracted (./oops_all_failed_videos_val_dir_new/).
 
 3. Loading Transition Times:
 
